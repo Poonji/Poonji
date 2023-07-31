@@ -1,8 +1,6 @@
 <h1 align="center">Hi👋 Myself Poonji Jadon</h1>
 <h3 align="center">I am a passionate Frontend developer, experienced in HTML, CSS & Vanilla Java Script, currently learning React, an aspiring software developer & a Cloud Computing enthusiast.<br><br> Having hands-on experience, working with the Google Cloud Platform, <br><br> Currently, I'm pursuing my Bachelor in Information Technology from United College of Engineering & Research, Prayagraj.</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&count_private=true&hide=prs" alt="Poonji's GitHub Stats">
-
 
 [![@poonji_21's Holopin board](https://holopin.me/poonji_21)](https://holopin.io/@poonji_21)
 
