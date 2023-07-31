@@ -12,7 +12,7 @@
   <a href="https://github.com/Poonji/github-readme-stats"><img alt="Poonji's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poonji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-[![@kinston18's Holopin board](https://holopin.io/api/user/board?user=kinston18)](https://holopin.io/@kinston18)
+[![@Poonji's Holopin board](https://holopin.io/api/user/board?user=Poonji)](https://holopin.io/@Poonji)
 
 **Languages**
 
