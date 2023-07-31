@@ -1,6 +1,12 @@
 <h1 align="center">Hi👋 Myself Poonji Jadon</h1>
 <h3 align="center">I am a passionate Frontend developer, experienced in HTML, CSS & Vanilla Java Script, currently learning React, an aspiring software developer & a Cloud Computing enthusiast.<br><br> Having hands-on experience, working with the Google Cloud Platform, <br><br> Currently, I'm pursuing my Bachelor in Information Technology from United College of Engineering & Research, Prayagraj.</h3>
 
+<p align="center">
+    <a href="https://https://github.com/Poonji/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Poonji's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Poonji&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 
 [![@poonji_21's Holopin board](https://holopin.me/poonji_21)](https://holopin.io/@poonji_21)
 
