@@ -1,5 +1,4 @@
-<h1 align="center">Hi👋 Myself Poonji Jadon</h1>
-<h3 align="center">I am a passionate Frontend developer, experienced in HTML, CSS & Vanilla Java Script, currently learning React, an aspiring software developer & a Cloud Computing enthusiast.<br><br> Having hands-on experience, working with the Google Cloud Platform, <br><br> Currently, I'm pursuing my Bachelor in Information Technology from United College of Engineering & Research, Prayagraj.</h3>
+<h1 align="center">Hi👋 Myself Poonji Jadon, I am a passionate Frontend developer</h1>
 
 <p align="center">
     <a href="https://https://github.com/Poonji/github-readme-streak-stats">
