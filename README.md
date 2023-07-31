@@ -24,10 +24,14 @@
 * <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height=25>
 * <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=25>
 *<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=25>
-
-
-
 <br>
+
+ ## GitHub Stats 
+
+ <br/>
+<a href="https://github.com/Poonji/github-readme-stats"><img alt="Poonji's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Poonji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Poonji/github-readme-stats"><img alt="Poonji's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poonji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 
 Here are some ideas to get you started
