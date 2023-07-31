@@ -11,8 +11,7 @@
 <a href="https://github.com/Poonji/github-readme-stats"><img alt="Poonji's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Poonji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Poonji/github-readme-stats"><img alt="Poonji's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poonji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-[![@poonji_21's Holopin board](https://holopin.me/poonji_21)](https://holopin.io/@poonji_21)
-
+[![@Poonji's Holopin board](https://holopin.io/api/user/board?user=Poonji)](https://holopin.io/@Poonji)
 ## 💼 Skills
 **Languages**
 
