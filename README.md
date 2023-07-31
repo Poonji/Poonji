@@ -1,12 +1,16 @@
 <h1 align="center">Hi👋 Myself Poonji Jadon, I am a passionate Frontend developer</h1>
-
 <p align="left">
     <a href="https://https://github.com/Poonji/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Poonji's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Poonji&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
+ ## GitHub Stats 
 
+ <br/>
+<a href="https://github.com/Poonji/github-readme-stats"><img alt="Poonji's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Poonji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Poonji/github-readme-stats"><img alt="Poonji's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poonji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 [![@poonji_21's Holopin board](https://holopin.me/poonji_21)](https://holopin.io/@poonji_21)
 
 ## 💼 Skills
@@ -24,13 +28,6 @@
 * <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=25>
 * <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=25>
 <br>
-
- ## GitHub Stats 
-
- <br/>
-<a href="https://github.com/Poonji/github-readme-stats"><img alt="Poonji's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Poonji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Poonji/github-readme-stats"><img alt="Poonji's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poonji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
 
 
 Here are some ideas to get you started
