@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 Myself Poonji Jadon, I am a passionate Frontend developer</h1>
+<h1 align="center">Hi👋 I am Poonji Jadon, a passionate Frontend developer</h1>
 <p align="left">
     <a href="https://https://github.com/Poonji/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Poonji's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Poonji&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
