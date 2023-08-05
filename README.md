@@ -5,7 +5,6 @@
     </a>
 </p>
 
-[![An image of @poonji_21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/poonji_21)](https://holopin.io/@poonji_21)
 
  ## GitHub Stats 
 
@@ -14,6 +13,7 @@
   <a href="https://github.com/Poonji/github-readme-stats"><img alt="Poonji's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poonji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
+[![An image of @poonji_21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/poonji_21)](https://holopin.io/@poonji_21)
 
 
 
