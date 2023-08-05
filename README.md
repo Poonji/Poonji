@@ -5,6 +5,7 @@
     </a>
 </p>
 
+[![An image of @poonji_21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/poonji_21)](https://holopin.io/@poonji_21)
 
  ## GitHub Stats 
 
@@ -14,7 +15,6 @@
   <br/>
 
 
-[![An image of @poonji_21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/poonji_21)](https://holopin.io/@poonji_21)
 
 
 **Languages**
